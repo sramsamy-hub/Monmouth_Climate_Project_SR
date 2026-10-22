@@ -1,0 +1,6 @@
+PolicyID,ZipCode,BuildingValue,ConstructionType,FloodZone
+PC-101,07750,750000,Wood,AE
+PC-102,07760,1200000,Masonry,X
+PC-103,07712,450000,Wood,AE
+PC-104,07732,890000,Wood,VE
+PC-105,07740,610000,Masonry,X
