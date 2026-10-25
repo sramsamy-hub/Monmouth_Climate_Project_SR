@@ -24,4 +24,4 @@ The production data pipeline has been fully compiled, executed, and mathematical
 * **Total RIS Asset Depreciation Exposure:** $644,000.00
 * **Consolidated Enterprise Capital-at-Risk:** $1,436,500.00
 
-**Audited & Compiled By:** [Selvan Ramsamy]
+**Audited & Compiled By: Selvan Ramsamy
