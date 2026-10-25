@@ -1,0 +1,7 @@
+"ZipCode","TownName","BaseElevation","HistoricFloodCount","ProjectedHeatDays","PC_PolicyID","BuildingValue","FloodZone","Life_PolicyID","FaceAmount","PolicyholderAge","ComorbidityFlag","RIS_AssetID","PropertyAssetValue","PC_Loss_Exposure","Life_Risk_Score","RIS_Asset_Depreciation"
+7750,"Monmouth Beach",4.2,5,7,"PC-101",750000,"AE","LF-203",150000,71,1,"RIS-302",1800000,3e+05,750,450000
+7760,"Rumson",12.5,1,8,"PC-102",1200000,"X","LF-202",5e+05,42,0,"RIS-304",4100000,60000,2500,82000
+7712,"Asbury Park",18,2,14,"PC-103",450000,"AE","LF-201",250000,68,1,"0",0,22500,15000,0
+7701,"Red Bank",25.1,0,11,"0",0,"0","LF-205",750000,63,1,"RIS-301",3200000,0,3750,64000
+7732,"Highlands",6.1,4,6,"PC-104",890000,"VE","0",0,0,0,"RIS-303",2400000,356000,0,48000
+7740,"Long Branch",15.3,2,13,"PC-105",610000,"X","LF-204",3e+05,55,0,"0",0,30500,1500,0
